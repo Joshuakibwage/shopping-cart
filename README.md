@@ -86,5 +86,5 @@ Feel free to fork the repo, create a branch, and submit a PR!
 
 This project is open-source under the MIT License.
 
-Made with ❤️ by [Joshua Kibwage]
+Made with ❤️ by [ Joshua Kibwage ]
 
